@@ -117,17 +117,16 @@ may be useful to someone.
 + [Derek Banas](http://www.youtube.com/user/derekbanas/) - C, Android, Java, UML, Design Patterns, Code Refractoring Tutorial
 + [Eli the Computer Guy](http://www.youtube.com/user/elithecomputerguy/) - Computer Training, Repair, Data Recovery Lesson and Web Design Seminars
 + [Gontu Series](http://www.youtube.com/user/gontuseries/) - Spring, Hibernate, Web Service Tutorial
-+[Java9s](http://www.youtube.com/user/java9s/) - Java, SCJP/OCJP, J2EE, Hibernate, Spring Tutorial
-+[Java Brains](http://www.youtube.com/user/koushks) - SOAP, JPSs, Servlets, Struts, Spring, Hibernate and more.
-+[John Lindquist](http://www.youtube.com/user/johnlindquist) - AngularJS Tutorial .
-+[NewCircle](http://www.youtube.com/user/MarakanaTechTV/) - HTML5, Node.js, Dart, Android and more conferences.
-+[Patrick WashingtonDC](http://www.youtube.com/user/patrickwashingtondc/) - C#, Java and Hibernate Tutorial
++ [Java9s](http://www.youtube.com/user/java9s/) - Java, SCJP/OCJP, J2EE, Hibernate, Spring Tutorial
++ [Java Brains](http://www.youtube.com/user/koushks) - SOAP, JPSs, Servlets, Struts, Spring, Hibernate and more.
++ [John Lindquist](http://www.youtube.com/user/johnlindquist) - AngularJS Tutorial .
++ [NewCircle](http://www.youtube.com/user/MarakanaTechTV/) - HTML5, Node.js, Dart, Android and more conferences.
++ [Patrick WashingtonDC](http://www.youtube.com/user/patrickwashingtondc/) - C#, Java and Hibernate Tutorial
 + [slidenerd](http://www.youtube.com/user/slidenerd/) - Java, Object Oriented and Android Tutorials.
 + [thenewboston](http://www.youtube.com/user/thenewboston/) - Web Development Tutorial
 + [Treehouse](http://www.youtube.com/user/gotreehouse/) - Web Design & Development, Treehouse Tips, Treehouse show and more.
 + [TwistedEquations](http://www.youtube.com/user/TwistedEquations/) - HTML 5 & CSS 3, Android Tutorials
 + [Vivekananda Reddy](http://www.youtube.com/user/viveknotty/) - Java For Beginners, Eclipse, Tomcat, Android, JSP, Servlets, Hibernate and more.
-+ []()
 + [UC Berkeley](http://www.youtube.com/user/UCBerkeley/) - Computer Science Lectures
 +[Zane Academy](http://www.youtube.com/user/zaneacademy/) - Java, Servlets, JUnit and more.
 
