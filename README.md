@@ -86,6 +86,9 @@ may be useful to someone.
 + [HMKCode - Code First!](http://hmkcode.com/)
 + [AndroidHive](http://www.androidhive.info/)
 
+## HTML & CSS
++ [HTML5 Doctor](http://html5doctor.com/)
++ [CSS Tricks](http://css-tricks.com/)
 
 ## Javascript
 + [Crockford](http://crockford.com/javascript/)
