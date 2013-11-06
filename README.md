@@ -97,7 +97,9 @@ may be useful to someone.
 + [JavaScript is Sexy](http://javascriptissexy.com/)
 + [AngularJS Video Tutorial](http://egghead.io/)
 + [Learn AngularJS from the best](http://www.thinkster.io/)
-
++ [ng-newsletter](http://www.ng-newsletter.com/)
++ [Dan Wahlin’s blog](http://weblogs.asp.net/dwahlin/)
++ [yearofmoo.com](http://www.yearofmoo.com/)
 
 ## Ruby on Rails
 + [Michael Hartl Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
