@@ -51,6 +51,7 @@ may be useful to someone.
     + [WebPlatform](http://docs.webplatform.org/wiki/Main_Page)
     + [NewCircle](https://thenewcircle.com/s)
     + [LearnCodeTheHardWay](http://learncodethehardway.org/)
+    + [Girl Develop It](http://www.girldevelopit.com/materials)
 
 + Dev Links & Network
     + [DZone](http://www.dzone.com/links/index.html)
