@@ -30,6 +30,7 @@ may be useful to someone.
     + [Try Ruby](http://tryruby.org/‎)
     + [Programmr](http://programmr.com/)
     + [MongoDB Tutorial](http://mongly.openmymind.net/tutorial/index)
+    + [Openvim](http://www.openvim.com/tutorial.html)
 
 + Learn by play a game
     + [RubyWarrior](https://www.bloc.io/ruby-warrior#/)
@@ -87,6 +88,7 @@ may be useful to someone.
 + [HMKCode - Code First!](http://hmkcode.com/)
 + [AndroidHive](http://www.androidhive.info/)
 + [ProgramCreek](http://www.programcreek.com/)
++ [Javanotes](http://math.hws.edu/javanotes/)
 
 ## HTML & CSS
 + [HTML5 Doctor](http://html5doctor.com/)
