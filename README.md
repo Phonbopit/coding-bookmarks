@@ -17,6 +17,7 @@ may be useful to someone.
     + [Pluralsight](http://pluralsight.com/training)
     + [Leanable](https://learnable.com/)
     + [Learn jQuery&Javascript](http://learn.appendto.com/lessons)
+    + [Bitcast](https://www.bitcast.io/)
 
 + Interactive & Practice
     + [Codeacademy](http://www.codecademy.com/)
@@ -94,6 +95,7 @@ may be useful to someone.
 ## HTML & CSS
 + [HTML5 Doctor](http://html5doctor.com/)
 + [CSS Tricks](http://css-tricks.com/)
++ [Shay Howe](http://learn.shayhowe.com/)
 
 ## Javascript
 + [Crockford](http://crockford.com/javascript/)
