@@ -89,6 +89,7 @@ may be useful to someone.
 + [AndroidHive](http://www.androidhive.info/)
 + [ProgramCreek](http://www.programcreek.com/)
 + [Javanotes](http://math.hws.edu/javanotes/)
++ [Java Cheatsheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
 
 ## HTML & CSS
 + [HTML5 Doctor](http://html5doctor.com/)
@@ -103,6 +104,7 @@ may be useful to someone.
 + [ng-newsletter](http://www.ng-newsletter.com/)
 + [Dan Wahlin’s blog](http://weblogs.asp.net/dwahlin/)
 + [yearofmoo.com](http://www.yearofmoo.com/)
++ [Quirksmode](http://www.quirksmode.org/js/contents.html)
 
 ## Ruby on Rails
 + [Michael Hartl Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
