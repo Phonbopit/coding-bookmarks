@@ -54,6 +54,7 @@ may be useful to someone.
     + [NewCircle](https://thenewcircle.com/s)
     + [LearnCodeTheHardWay](http://learncodethehardway.org/)
     + [Girl Develop It](http://www.girldevelopit.com/materials)
+    + [Flippin Awesome](http://flippinawesome.org/)
 
 + Dev Links & Network
     + [DZone](http://www.dzone.com/links/index.html)
@@ -91,6 +92,7 @@ may be useful to someone.
 + [ProgramCreek](http://www.programcreek.com/)
 + [Javanotes](http://math.hws.edu/javanotes/)
 + [Java Cheatsheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
++ [Javarevisited](http://javarevisited.blogspot.com/)
 
 ## HTML & CSS
 + [HTML5 Doctor](http://html5doctor.com/)
