@@ -64,6 +64,10 @@ may be useful to someone.
     + [Geeklist](https://geekli.st/)
     + [HTML5 Bookmarks](http://www.html5bookmarks.com/)
 
++ API
+    + [DevDocs](http://devdocs.io/)
+    + [DocHub](http://dochub.io/)
+
 + Github Useful Resources
     + [Free Programming Ebooks](https://github.com/vhf/free-programming-books)
     + [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
@@ -109,6 +113,19 @@ may be useful to someone.
 + [Dan Wahlin’s blog](http://weblogs.asp.net/dwahlin/)
 + [yearofmoo.com](http://www.yearofmoo.com/)
 + [Quirksmode](http://www.quirksmode.org/js/contents.html)
++ [Javascript Libraries](http://www.jsdb.io/)
+
+## Game Development, Frameworks & Engines
++ [libgdx](http://libgdx.badlogicgames.com/)
++ [jMonkey](http://jmonkeyengine.org/)
++ [LWJGL](http://lwjgl.org/)
++ [HTML5 Game Development](http://www.html5gamedevelopment.com/)
++ [HTML5 Game Dev Forums](http://www.html5gamedevs.com/)
++ [Game Development](http://buildnewgames.com/)
++ [Phaser](http://phaser.io/)
++ [CraftyJS](http://craftyjs.com/)
++ [LimeJS](http://www.limejs.com/)
+
 
 ## Ruby on Rails
 + [Michael Hartl Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
