@@ -33,7 +33,7 @@ may be useful to someone.
     + [MongoDB Tutorial](http://mongly.openmymind.net/tutorial/index)
     + [Openvim](http://www.openvim.com/tutorial.html)
 
-+ Learn by play a game
++ Learn by Play a Game
     + [RubyWarrior](https://www.bloc.io/ruby-warrior#/)
     + [Codecombat](http://codecombat.com/)
     + [Vim Adventures](http://vim-adventures.com/)
@@ -41,7 +41,7 @@ may be useful to someone.
     + [coderace](http://coderace.me/)
 
 
-+ Tips & Tutorials
++ Tips, Tutorials, Web Design and Web Development
     + [Codrops](http://tympanus.net/codrops/)
     + [Sitepoint](http://www.sitepoint.com/)
     + [Tuts+ Network](http://hub.tutsplus.com/)
@@ -55,6 +55,14 @@ may be useful to someone.
     + [LearnCodeTheHardWay](http://learncodethehardway.org/)
     + [Girl Develop It](http://www.girldevelopit.com/materials)
     + [Flippin Awesome](http://flippinawesome.org/)
+    + [pixel2pixeldesign](http://pixel2pixeldesign.com/)
+    + [Tutorialzine](http://tutorialzine.com/)
+    + [Speckyboy](http://speckyboy.com/)
+    + [1st Webdesigner](http://www.1stwebdesigner.com/)
+    + [Web Design Depot](http://www.webdesignerdepot.com/)
+    + [Webデザインレシピ](http://webdesignrecipes.com/)
+    + [Pencilscoop](http://www.pencilscoop.com/)
+    + [Scotch.io](http://scotch.io/)
 
 + Dev Links & Network
     + [DZone](http://www.dzone.com/links/index.html)
@@ -63,6 +71,7 @@ may be useful to someone.
     + [Coderwall](https://coderwall.com/)
     + [Geeklist](https://geekli.st/)
     + [HTML5 Bookmarks](http://www.html5bookmarks.com/)
+    + [Frontend rescue](http://uptodate.frontendrescue.org/)
 
 + API
     + [DevDocs](http://devdocs.io/)
@@ -114,6 +123,9 @@ may be useful to someone.
 + [yearofmoo.com](http://www.yearofmoo.com/)
 + [Quirksmode](http://www.quirksmode.org/js/contents.html)
 + [Javascript Libraries](http://www.jsdb.io/)
++ [Echo JS](http://www.echojs.com/)
++ [Javascript The Right Way](http://jstherightway.org/)
++ [Superhero.js](http://superherojs.com/)
 
 ## Game Development, Frameworks & Engines
 + [libgdx](http://libgdx.badlogicgames.com/)
@@ -122,6 +134,7 @@ may be useful to someone.
 + [HTML5 Game Development](http://www.html5gamedevelopment.com/)
 + [HTML5 Game Dev Forums](http://www.html5gamedevs.com/)
 + [Game Development](http://buildnewgames.com/)
++ [Code in Complete](http://codeincomplete.com/)
 + [Phaser](http://phaser.io/)
 + [CraftyJS](http://craftyjs.com/)
 + [LimeJS](http://www.limejs.com/)
@@ -137,6 +150,36 @@ may be useful to someone.
 + [Omg Ubuntu](http://omgubuntu.co.uk)
 + [Webupd8](http://www.webupd8.org/)
 + [FollowtheGeeks](http://followthegeeks.com/)
+
+## Flipboard Magazines
+
++ [Angular JS Magazine](http://flip.it/eYhdT)
++ [Javascript & HTML](http://flip.it/JABYx)
++ [Ruby on Rails](http://flip.it/NcxKd)
++ [Graphic & Web Design](http://flip.it/DG6ur)
++ [UI UX](http://flip.it/Iq55i)
++ [Vector Graphic](http://flip.it/fe1uX)
++ [TechCrunch Weekly](http://flip.it/PrBxq)
++ [Objective C - iOS Programming](http://flip.it/0Il19)
++ [Creative Product Design](http://flip.it/fnaNL)
++ [The Entrepreneur's Way](http://flip.it/uPVQ4)
++ [Cool Apps](http://flip.it/dMtjg)
++ [New Apps](http://flip.it/GLyhO)
+
+## Daily, Weekly & Monthly
+
++ [Ruby Daily](http://rubydaily.org/)
++ [Ruby Weekly](http://rubyweekly.com/)
++ [DailyJS](http://dailyjs.com)
++ [Javascript Weekly](http://javascriptweekly.com/)
++ [Web Design Weekly](http://web-design-weekly.com/)
++ [HTML5 Weekly](http://html5weekly.com/)
++ [Node Weekly](http://nodeweekly.com/)
++ [Sidebar.io](http://sidebar.io/)
++ [HTML5 Bookmarks](http://html5bookmarks.com/)
++ [CSS Weekly](http://css-weekly.com/)
++ [Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
+
 
 ## My Youtube Subscriptions
 + [Android Deveopers](http://www.youtube.com/user/androiddevelopers/) - Android Developer, Events and more.
