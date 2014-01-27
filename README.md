@@ -63,6 +63,7 @@ may be useful to someone.
     + [Webデザインレシピ](http://webdesignrecipes.com/)
     + [Pencilscoop](http://www.pencilscoop.com/)
     + [Scotch.io](http://scotch.io/)
+    + [Web Apprentice](http://apprentice.craic.com/tutorials)
 
 + Dev Links & Network
     + [DZone](http://www.dzone.com/links/index.html)
