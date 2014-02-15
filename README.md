@@ -40,7 +40,6 @@ may be useful to someone.
     + [Check IO](http://www.checkio.org/)
     + [coderace](http://coderace.me/)
 
-
 + Tips, Tutorials, Web Design and Web Development
     + [Codrops](http://tympanus.net/codrops/)
     + [Sitepoint](http://www.sitepoint.com/)
@@ -63,12 +62,9 @@ may be useful to someone.
     + [Webデザインレシピ](http://webdesignrecipes.com/)
     + [Pencilscoop](http://www.pencilscoop.com/)
     + [Scotch.io](http://scotch.io/)
-<<<<<<< HEAD
     + [Design Your Way](http://www.designyourway.net/blog/)
     + [gotoAndLearn](http://gotoandlearn.com/index.php)
-=======
     + [Web Apprentice](http://apprentice.craic.com/tutorials)
->>>>>>> 7e1ab327a1236a554433ea8e39d56c0752ed7b40
 
 + Dev Links & Network
     + [DZone](http://www.dzone.com/links/index.html)
