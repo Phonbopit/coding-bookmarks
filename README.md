@@ -63,6 +63,8 @@ may be useful to someone.
     + [Webデザインレシピ](http://webdesignrecipes.com/)
     + [Pencilscoop](http://www.pencilscoop.com/)
     + [Scotch.io](http://scotch.io/)
+    + [Design Your Way](http://www.designyourway.net/blog/)
+    + [gotoAndLearn](http://gotoandlearn.com/index.php)
 
 + Dev Links & Network
     + [DZone](http://www.dzone.com/links/index.html)
@@ -72,6 +74,11 @@ may be useful to someone.
     + [Geeklist](https://geekli.st/)
     + [HTML5 Bookmarks](http://www.html5bookmarks.com/)
     + [Frontend rescue](http://uptodate.frontendrescue.org/)
+    + [gibbon](https://gibbon.co)
+    + [SkilledUp](http://www.skilledup.com/)
+
++ Ebooks
+    + [O'Reilly Atlas](http://chimera.labs.oreilly.com/)
 
 + API
     + [DevDocs](http://devdocs.io/)
@@ -144,6 +151,7 @@ may be useful to someone.
 + [Michael Hartl Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 + [Ruby on Rails Guides](http://guides.rubyonrails.org/index.html)
 + [Ruby on Rails Screencasts](http://railscasts.com/)
++ [Planet Ruby on Rails](http://planetrubyonrails.com/)
 
 
 ## Unix&Ubuntu
