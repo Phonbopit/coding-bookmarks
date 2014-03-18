@@ -18,6 +18,9 @@ may be useful to someone.
     + [Leanable](https://learnable.com/)
     + [Learn jQuery&Javascript](http://learn.appendto.com/lessons)
     + [Bitcast](https://www.bitcast.io/)
+    + [Futurelearn](https://www.futurelearn.com/‎)
+    + [Skillshare](www.skillshare.com/)
+
 
 + Interactive & Practice
     + [Codeacademy](http://www.codecademy.com/)
@@ -76,9 +79,12 @@ may be useful to someone.
     + [Frontend rescue](http://uptodate.frontendrescue.org/)
     + [gibbon](https://gibbon.co)
     + [SkilledUp](http://www.skilledup.com/)
+    + [Gibbon](https://gibbon.co/‎)
 
 + Ebooks
     + [O'Reilly Atlas](http://chimera.labs.oreilly.com/)
+    + [SafariFlow](https://www.safariflow.com/‎)
+    + [SafariEbook](www.safaribooksonline.com/‎)
 
 + API
     + [DevDocs](http://devdocs.io/)
