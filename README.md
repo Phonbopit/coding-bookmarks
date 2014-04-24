@@ -20,13 +20,14 @@ may be useful to someone.
     + [Bitcast](https://www.bitcast.io/)
     + [Futurelearn](https://www.futurelearn.com/‎)
     + [Skillshare](www.skillshare.com/)
+    + [Open2Study](https://www.open2study.com/)
 
 
 + Interactive & Practice
     + [Codeacademy](http://www.codecademy.com/)
     + [CodeAvengers](http://www.codeavengers.com/)
     + [LearnStreet](http://www.learnstreet.com/)
-    + [codelearn](http://www.codelearn.org/)
+    + [Codelearn](http://www.codelearn.org/)
     + [SQL Zoo](http://sqlzoo.net/wiki/Main_Page)
     + [Learn nodejs](http://nodeschool.io/)
     + [Java & Python](http://codingbat.com/)
@@ -70,6 +71,7 @@ may be useful to someone.
     + [Web Apprentice](http://apprentice.craic.com/tutorials)
 
 + Dev Links & Network
+    + [Reddit](http://www.reddit.com/)
     + [DZone](http://www.dzone.com/links/index.html)
     + [Tech Pro](http://tech.pro)
     + [Hacker News](https://news.ycombinator.com/news)
@@ -77,7 +79,6 @@ may be useful to someone.
     + [Geeklist](https://geekli.st/)
     + [HTML5 Bookmarks](http://www.html5bookmarks.com/)
     + [Frontend rescue](http://uptodate.frontendrescue.org/)
-    + [gibbon](https://gibbon.co)
     + [SkilledUp](http://www.skilledup.com/)
     + [Gibbon](https://gibbon.co/‎)
 
@@ -119,6 +120,7 @@ may be useful to someone.
 + [Javanotes](http://math.hws.edu/javanotes/)
 + [Java Cheatsheet](http://introcs.cs.princeton.edu/java/11cheatsheet/)
 + [Javarevisited](http://javarevisited.blogspot.com/)
++ [Learning the code way](http://learningviacode.blogspot.com/)
 
 ## HTML & CSS
 + [HTML5 Doctor](http://html5doctor.com/)
@@ -130,6 +132,7 @@ may be useful to someone.
 + [DailyJS](http://dailyjs.com)
 + [JavaScript is Sexy](http://javascriptissexy.com/)
 + [AngularJS Video Tutorial](http://egghead.io/)
++ [AngularJS]
 + [Learn AngularJS from the best](http://www.thinkster.io/)
 + [ng-newsletter](http://www.ng-newsletter.com/)
 + [Dan Wahlin’s blog](http://weblogs.asp.net/dwahlin/)
@@ -140,17 +143,31 @@ may be useful to someone.
 + [Javascript The Right Way](http://jstherightway.org/)
 + [Superhero.js](http://superherojs.com/)
 
-## Game Development, Frameworks & Engines
+## Game Frameworks & Engines
 + [libgdx](http://libgdx.badlogicgames.com/)
 + [jMonkey](http://jmonkeyengine.org/)
 + [LWJGL](http://lwjgl.org/)
++ [Phaser](http://phaser.io/)
++ [CraftyJS](http://craftyjs.com/)
++ [LimeJS](http://www.limejs.com/)
++ [LÖVE](http://love2d.org/)
+
+## Game Dev Tutorial & Blogs
++ [Badlogic](http://www.badlogicgames.com/)
++ [SDL Tutorial](http://lazyfoo.net/SDL_tutorials/)
++ [Gamesutra](http://www.gamasutra.com/)
++ [Game Programming Patterns](http://gameprogrammingpatterns.com/)
++ [GameFromScratch](http://www.gamefromscratch.com/)
++ [Tutsplus Game Dev](http://gamedevelopment.tutsplus.com/)
++ [Jesse Freeman](http://jessefreeman.com/)
++ [kilobolt](http://www.kilobolt.com/)
++ [lessmilk](http://www.lessmilk.com/)
++ [One Game A Month](http://www.onegameamonth.com/)
++ [mcfunkypants](http://mcfunkypants.com/)
 + [HTML5 Game Development](http://www.html5gamedevelopment.com/)
 + [HTML5 Game Dev Forums](http://www.html5gamedevs.com/)
 + [Game Development](http://buildnewgames.com/)
 + [Code in Complete](http://codeincomplete.com/)
-+ [Phaser](http://phaser.io/)
-+ [CraftyJS](http://craftyjs.com/)
-+ [LimeJS](http://www.limejs.com/)
 
 
 ## Ruby on Rails
@@ -194,6 +211,9 @@ may be useful to someone.
 + [CSS Weekly](http://css-weekly.com/)
 + [Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
 
+## Others
++ [Ray Wenderlich](http://www.raywenderlich.com/)
+
 
 ## My Youtube Subscriptions
 + [Android Deveopers](http://www.youtube.com/user/androiddevelopers/) - Android Developer, Events and more.
@@ -201,10 +221,14 @@ may be useful to someone.
 + [Arthur Vin](http://www.youtube.com/channel/UC53onV6SK53Pq-ZAvJsKWOA) - Java EE Tutorials
 + [Arun Gupta](http://www.youtube.com/user/arungupta) - Jave EE, Eclipse, EJB, GlassFish, etc.
 + [AwfulMedia](http://www.youtube.com/user/AwfulMedia) - Web Design, Responsive and Wordpress Tutorial
++ [Brackey](http://www.youtube.com/user/Brackeys) - Unity3d Tutorial
 + [Cave of Programming](http://www.youtube.com/user/caveofprogramming) - Java for Complete Beginners, Servlets and JSPs, Mastering Java Swing, Java Collections Framework and Spring Tutorials
 + [Coder's Guide](http://www.youtube.com/user/CodersGuide/) - Bootstrap 3, Responsive Web Design, HTML/CSS, Javascript Tutorial
++ [css-tricks](http://www.youtube.com/user/realcsstricks) - CSS Tricks
 + [Derek Banas](http://www.youtube.com/user/derekbanas/) - C, Android, Java, UML, Design Patterns, Code Refractoring Tutorial
++ [dermetfan](http://www.youtube.com/user/dermetfan) - LibGDX Tutorials
 + [Eli the Computer Guy](http://www.youtube.com/user/elithecomputerguy/) - Computer Training, Repair, Data Recovery Lesson and Web Design Seminars
++ [ForeignGuyMike](http://www.youtube.com/user/ForeignGuyMike) - LibGDX Tutorials
 + [Gontu Series](http://www.youtube.com/user/gontuseries/) - Spring, Hibernate, Web Service Tutorial
 + [Java9s](http://www.youtube.com/user/java9s/) - Java, SCJP/OCJP, J2EE, Hibernate, Spring Tutorial
 + [Java Brains](http://www.youtube.com/user/koushks) - SOAP, JPSs, Servlets, Struts, Spring, Hibernate and more.
@@ -218,5 +242,9 @@ may be useful to someone.
 + [Vivekananda Reddy](http://www.youtube.com/user/viveknotty/) - Java For Beginners, Eclipse, Tomcat, Android, JSP, Servlets, Hibernate and more.
 + [UC Berkeley](http://www.youtube.com/user/UCBerkeley/) - Computer Science Lectures
 + [Zane Academy](http://www.youtube.com/user/zaneacademy/) - Java, Servlets, JUnit and more.
+
+
+
+
 
 
