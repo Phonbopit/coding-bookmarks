@@ -21,6 +21,11 @@ may be useful to someone.
     + [Futurelearn](https://www.futurelearn.com/‎)
     + [Skillshare](www.skillshare.com/)
     + [Open2Study](https://www.open2study.com/)
+    + [Infinites Skills](http://www.infiniteskills.com/)
+    + [Skilledup](http://www.skilledup.com/)
+    + [zenva](http://zenva.com/)
+    + [SkillFeed](https://www.skillfeed.com/)
+    + [Bentobox](http://www.bentobox.io/)
 
 
 + Interactive & Practice
@@ -79,7 +84,6 @@ may be useful to someone.
     + [Geeklist](https://geekli.st/)
     + [HTML5 Bookmarks](http://www.html5bookmarks.com/)
     + [Frontend rescue](http://uptodate.frontendrescue.org/)
-    + [SkilledUp](http://www.skilledup.com/)
     + [Gibbon](https://gibbon.co/‎)
 
 + Ebooks
