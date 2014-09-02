@@ -155,6 +155,7 @@ may be useful to someone.
 + [100 Percent JS](http://www.100percentjs.com/)
 + [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
 + [Angular Learning](https://github.com/zafarali/learning-angular)
++ [NodeJS Books](https://github.com/Pana/node-books)
 
 
 ## Game Frameworks & Engines
@@ -197,6 +198,7 @@ may be useful to someone.
 + [Planet Ruby on Rails](http://planetrubyonrails.com/)
 + [Ruby Bookmark](https://github.com/dreikanter/ruby-bookmarks)
 + [The Odin Project](http://www.theodinproject.com/)
++ [Green Ruby](http://greenruby.org/)
 
 
 ## Python
@@ -250,6 +252,9 @@ may be useful to someone.
 + [HTML5 Bookmarks](http://html5bookmarks.com/)
 + [CSS Weekly](http://css-weekly.com/)
 + [Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
++ [GameDev.js](http://gamedevjsweekly.com/)
++ [Android Weekly](http://androidweekly.net/)
++ [Mobile Dev Weekly](http://mobilewebweekly.co/)
 
 
 ## Others
@@ -291,7 +296,9 @@ may be useful to someone.
 ## Screencasts & Podcast
 
 + [Tag Tree](http://tagtree.tv/)
-
++ [Ruby Rouge](http://rubyrogues.com/)
++ [Ruby on Rails Podcast](http://5by5.tv/rubyonrails)
++ [Ruby5](http://ruby5.envylabs.com/)
 
 
 
