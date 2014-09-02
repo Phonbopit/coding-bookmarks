@@ -136,7 +136,6 @@ may be useful to someone.
 + [DailyJS](http://dailyjs.com)
 + [JavaScript is Sexy](http://javascriptissexy.com/)
 + [AngularJS Video Tutorial](http://egghead.io/)
-+ [AngularJS]
 + [Learn AngularJS from the best](http://www.thinkster.io/)
 + [ng-newsletter](http://www.ng-newsletter.com/)
 + [Dan Wahlin’s blog](http://weblogs.asp.net/dwahlin/)
@@ -146,6 +145,7 @@ may be useful to someone.
 + [Echo JS](http://www.echojs.com/)
 + [Javascript The Right Way](http://jstherightway.org/)
 + [Superhero.js](http://superherojs.com/)
++ [100 Percent JS](http://www.100percentjs.com/)
 
 ## Game Frameworks & Engines
 + [libgdx](http://libgdx.badlogicgames.com/)
@@ -157,6 +157,7 @@ may be useful to someone.
 + [LÖVE](http://love2d.org/)
 
 ## Game Dev Tutorial & Blogs
++ [GameDev](http://www.gamedev.net/page/index.html)
 + [Badlogic](http://www.badlogicgames.com/)
 + [SDL Tutorial](http://lazyfoo.net/SDL_tutorials/)
 + [Gamesutra](http://www.gamasutra.com/)
@@ -181,10 +182,20 @@ may be useful to someone.
 + [Planet Ruby on Rails](http://planetrubyonrails.com/)
 
 
+## Python
++ []()
++ []()
+
 ## Unix&Ubuntu
 + [Omg Ubuntu](http://omgubuntu.co.uk)
 + [Webupd8](http://www.webupd8.org/)
 + [FollowtheGeeks](http://followthegeeks.com/)
+
+## Git
+
++ [Git Tower](http://www.git-tower.com/learn/ebook/)
++ [GitGuys](http://www.gitguys.com/)
++ [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 
 ## Flipboard Magazines
 
@@ -217,6 +228,7 @@ may be useful to someone.
 
 ## Others
 + [Ray Wenderlich](http://www.raywenderlich.com/)
++ [Google I/O 2014 CodeLabs](http://io2014codelabs.appspot.com/static/index.html)
 
 
 ## My Youtube Subscriptions
@@ -247,6 +259,10 @@ may be useful to someone.
 + [UC Berkeley](http://www.youtube.com/user/UCBerkeley/) - Computer Science Lectures
 + [Zane Academy](http://www.youtube.com/user/zaneacademy/) - Java, Servlets, JUnit and more.
 
+
+## Screencasts & Podcast
+
++ [Tag Tree](http://tagtree.tv/)
 
 
 
