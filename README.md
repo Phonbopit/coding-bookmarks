@@ -188,6 +188,7 @@ may be useful to someone.
 + [Game Development](http://buildnewgames.com/)
 + [Code in Complete](http://codeincomplete.com/)
 + [Program Arcade Games](http://programarcadegames.com/)
++ [TIG Forums](http://forums.tigsource.com/)
 
 
 ## Ruby on Rails
