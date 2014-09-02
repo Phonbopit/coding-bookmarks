@@ -3,6 +3,7 @@ may be useful to someone.
 
 
 ## Web Development
+
 + Courses
     + [MIT Open Course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
     + [Teamtreehouse](http://teamtreehouse.com/)
@@ -100,7 +101,9 @@ may be useful to someone.
     + [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
     + [AngularJS Learning](https://github.com/jmcunningham/AngularJS-Learning)
 
+
 ## Java
+
 + [Spring.io](http://spring.io/guides)
 + [Spring Tutorial Krams915](http://krams915.blogspot.com/)
 + [Spring Tutorial Baeldung](http://www.baeldung.com/)
@@ -126,12 +129,16 @@ may be useful to someone.
 + [Javarevisited](http://javarevisited.blogspot.com/)
 + [Learning the code way](http://learningviacode.blogspot.com/)
 
+
 ## HTML & CSS
+
 + [HTML5 Doctor](http://html5doctor.com/)
 + [CSS Tricks](http://css-tricks.com/)
 + [Shay Howe](http://learn.shayhowe.com/)
 
+
 ## Javascript
+
 + [Crockford](http://crockford.com/javascript/)
 + [DailyJS](http://dailyjs.com)
 + [JavaScript is Sexy](http://javascriptissexy.com/)
@@ -146,8 +153,12 @@ may be useful to someone.
 + [Javascript The Right Way](http://jstherightway.org/)
 + [Superhero.js](http://superherojs.com/)
 + [100 Percent JS](http://www.100percentjs.com/)
++ [Meteor Learning](https://github.com/ericdouglas/Meteor-Learning)
++ [Angular Learning](https://github.com/zafarali/learning-angular)
+
 
 ## Game Frameworks & Engines
+
 + [libgdx](http://libgdx.badlogicgames.com/)
 + [jMonkey](http://jmonkeyengine.org/)
 + [LWJGL](http://lwjgl.org/)
@@ -156,7 +167,9 @@ may be useful to someone.
 + [LimeJS](http://www.limejs.com/)
 + [LÖVE](http://love2d.org/)
 
+
 ## Game Dev Tutorial & Blogs
+
 + [GameDev](http://www.gamedev.net/page/index.html)
 + [Badlogic](http://www.badlogicgames.com/)
 + [SDL Tutorial](http://lazyfoo.net/SDL_tutorials/)
@@ -173,20 +186,29 @@ may be useful to someone.
 + [HTML5 Game Dev Forums](http://www.html5gamedevs.com/)
 + [Game Development](http://buildnewgames.com/)
 + [Code in Complete](http://codeincomplete.com/)
++ [Program Arcade Games](http://programarcadegames.com/)
 
 
 ## Ruby on Rails
+
 + [Michael Hartl Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
 + [Ruby on Rails Guides](http://guides.rubyonrails.org/index.html)
 + [Ruby on Rails Screencasts](http://railscasts.com/)
 + [Planet Ruby on Rails](http://planetrubyonrails.com/)
++ [Ruby Bookmark](https://github.com/dreikanter/ruby-bookmarks)
++ [The Odin Project](http://www.theodinproject.com/)
 
 
 ## Python
-+ []()
-+ []()
+
++ [Dive into Python3](http://www.diveintopython3.net/)
++ [Full Sctack Python](http://www.fullstackpython.com/)
++ [Invent with Python](http://inventwithpython.com/)
++ [Tango with Django](http://www.tangowithdjango.com/book/index.html)
+
 
 ## Unix&Ubuntu
+
 + [Omg Ubuntu](http://omgubuntu.co.uk)
 + [Webupd8](http://www.webupd8.org/)
 + [FollowtheGeeks](http://followthegeeks.com/)
@@ -196,6 +218,8 @@ may be useful to someone.
 + [Git Tower](http://www.git-tower.com/learn/ebook/)
 + [GitGuys](http://www.gitguys.com/)
 + [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
++ [RyPress](http://rypress.com/tutorials/git/index.html)
+
 
 ## Flipboard Magazines
 
@@ -212,6 +236,7 @@ may be useful to someone.
 + [Cool Apps](http://flip.it/dMtjg)
 + [New Apps](http://flip.it/GLyhO)
 
+
 ## Daily, Weekly & Monthly
 
 + [Ruby Daily](http://rubydaily.org/)
@@ -226,12 +251,15 @@ may be useful to someone.
 + [CSS Weekly](http://css-weekly.com/)
 + [Java Magazine](http://www.oracle.com/technetwork/java/javamagazine/index.html)
 
+
 ## Others
+
 + [Ray Wenderlich](http://www.raywenderlich.com/)
 + [Google I/O 2014 CodeLabs](http://io2014codelabs.appspot.com/static/index.html)
 
 
 ## My Youtube Subscriptions
+
 + [Android Deveopers](http://www.youtube.com/user/androiddevelopers/) - Android Developer, Events and more.
 + [AngularJS](http://www.youtube.com/user/angularjs/) - AngularJS Tutorial
 + [Arthur Vin](http://www.youtube.com/channel/UC53onV6SK53Pq-ZAvJsKWOA) - Java EE Tutorials
