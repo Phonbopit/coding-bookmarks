@@ -189,6 +189,9 @@ may be useful to someone.
 + [Code in Complete](http://codeincomplete.com/)
 + [Program Arcade Games](http://programarcadegames.com/)
 + [TIG Forums](http://forums.tigsource.com/)
++ [pixelprospector](http://www.pixelprospector.com/)
++ [Platformer Power](http://platformerpower.com/)
++ [Itch.io - Indie Games](http://itch.io/)
 
 
 ## Ruby on Rails
