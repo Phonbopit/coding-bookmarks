@@ -192,6 +192,7 @@ may be useful to someone.
 + [pixelprospector](http://www.pixelprospector.com/)
 + [Platformer Power](http://platformerpower.com/)
 + [Itch.io - Indie Games](http://itch.io/)
++ [Fabien Sanglard's Website](http://fabiensanglard.net/)
 
 
 ## Ruby on Rails
